@@ -1,0 +1,27 @@
+html{margin: 0;
+padding: 0;}
+
+html{background-color: lightcyan;}
+div.container{
+    margin-top: 15%;
+    margin-left: 40%;
+    position: relative; }
+
+.container h3{font-size: 30px;
+line-height: 27px;}
+
+.container input{border-color: dodgerblue;
+    background-color:aliceblue;
+    height: 37px;
+    border-radius: 8px;
+    font-size: 18px;
+text-align: center;}
+
+    .container button { width: 90px;
+        background-color: rgb(21, 8, 205);
+        border-color: dodgerblue;
+        height: 37px;
+        border-radius: 11px;
+        text-align: center;
+        cursor: pointer;
+        transition: all 0.5s;}
